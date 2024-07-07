@@ -1,0 +1,15 @@
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\bin\Debug\net8.0\DataStructure.exe
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\bin\Debug\net8.0\DataStructure.deps.json
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\bin\Debug\net8.0\DataStructure.runtimeconfig.json
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\bin\Debug\net8.0\DataStructure.dll
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\bin\Debug\net8.0\DataStructure.pdb
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfoInputs.cache
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.AssemblyInfo.cs
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.sourcelink.json
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.dll
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\refint\DataStructure.dll
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.pdb
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\DataStructure.genruntimeconfig.cache
+C:\SimoneRepo\data-structures-algorithms\DataStructure_Algorithms\DataStructure\obj\Debug\net8.0\ref\DataStructure.dll
